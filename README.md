@@ -1,6 +1,6 @@
-# Olá pessoal! 👋
+# Fala galera! 👋
 
-Meu nome é Renan Melo. Sou estudante do 3º ano do Ensino Médio em Redes de Computadores, e estudo Desenvolvimento Web Front-end desde 2020. 👨‍💻
+Meu nome é Renan Melo. Sou um jovem universitário, cursando Análise e Desenvolvimento de Sistemas, e estudo Desenvolvimento Web Front-end desde 2020. 👨‍💻
 
 Estou disposto a aprender e ter novas experiências. Sempre pronto para novos desafios e aberto a compartilhar meu conhecimento. 😀
 
@@ -8,7 +8,7 @@ Estou disposto a aprender e ter novas experiências. Sempre pronto para novos de
 #### 🌍 "O verdadeiro conhecimento vem de dentro" 💡
 
 - 📍 Do CE morando em Fortaleza
-- 📚 Estudante de Redes de Computadores em [EEEP MJM](https://www.instagram.com/eeepmariajosemedeiros/)
+- 📚 Análise e Desenvolvimento de Sistemas
 - 👨‍👩‍👦‍👦 Família com meus pais maravilhosos e 2 irmãos
 
 #### Tecnologias que estou estudando:

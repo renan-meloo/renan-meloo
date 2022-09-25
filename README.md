@@ -5,7 +5,7 @@ Meu nome é Renan Melo. Sou um jovem universitário, cursando Análise e Desenvo
 Estou disposto a aprender e ter novas experiências. Sempre pronto para novos desafios e aberto a compartilhar meu conhecimento. 😀
 
 
-#### 🌍 "O verdadeiro conhecimento vem de dentro" 💡
+#### 🌍 "O verdadeiro conhecimento vem de dentro!" 💡
 
 - 📍 Do CE morando em Fortaleza
 - 📚 Análise e Desenvolvimento de Sistemas

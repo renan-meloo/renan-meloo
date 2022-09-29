@@ -2,7 +2,7 @@
 
 Meu nome é Renan Melo. Sou um jovem universitário, cursando Análise e Desenvolvimento de Sistemas, e estudo Desenvolvimento Web desde 2020. 👨‍💻
 
-Estou disposto a aprender e ter novas experiências. Sempre pronto para novos desafios e aberto a compartilhar meu conhecimento. 😀
+Estou disposto a aprender e ter novas experiências. Sempre pronto para novos desafios e aberto a compartilhar meu conhecimento! 😀
 
 
 #### 🌍 "O verdadeiro conhecimento vem de dentro!" 💡

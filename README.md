@@ -16,7 +16,3 @@ Estou disposto a aprender e ter novas experiências. Sempre pronto para novos de
 - CSS3 (Sistemas de Grids, flexbox, responsividade, tipografia e unidades de medidas)
 - Lógica de programação (Estruturas sequenciais e condicionais, estrutura de repetição e funções)
 - JavaScript (Estruturas de controle, array, objeto e função)
-
-Minhas redes 👇
-
-[![Instagram Badge](https://img.shields.io/badge/-@renan_mel0_-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/renan_mel0_)](https://www.instagram.com/renan_mel0_/) [![Facebook Badge](https://img.shields.io/badge/-Renan_Melo-blue?style=flat-square&logo=Facebook&logoColor=white&link=mailto:renan.meloo.710@gmail.com)](https://www.facebook.com/renan.melo.3192) [![Gmail Badge](https://img.shields.io/badge/-renan.meloo.710@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renan.meloo.710@gmail.com)](mailto:renan.meloo.710@gmail.com)

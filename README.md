@@ -15,4 +15,4 @@ Estou disposto a aprender e ter novas experiências. Sempre pronto para novos de
 - HTML5 (Tags semânticas, id, class, tabels, forms, listas ol e ul e imagens dinâmicas)
 - CSS3 (Sistemas de Grids, flexbox, responsividade, tipografia e unidades de medidas)
 - Lógica de programação (Estruturas sequenciais e condicionais, estrutura de repetição e funções)
-- JavaScript (Estruturas de controle, array, objeto e função)
+- JavaScript (Estruturas de controle, array, objeto, função, DOM)

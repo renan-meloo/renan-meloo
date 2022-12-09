@@ -1,6 +1,6 @@
 # Fala galera! 👋
 
-Meu nome é Renan Melo. Sou um jovem universitário, cursando Análise e Desenvolvimento de Sistemas, e estudo Desenvolvimento Web desde 2020. 👨‍💻
+Meu nome é Renan Melo. Sou um jovem universitário, cursando Análise e Desenvolvimento de Sistemas, e atualmente estou estudando Desenvolvimento Web, focado na parte Front-end. 👨‍💻
 
 Estou disposto a aprender e ter novas experiências. Sempre pronto para novos desafios e aberto a compartilhar meu conhecimento! 😀
 
